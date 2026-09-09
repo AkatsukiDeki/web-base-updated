@@ -1,6 +1,6 @@
 # Основы веб-технологий (обновлённые задания) 
 
-### [Таблица с успеваемостью]()
+### [Таблица с успеваемостью](https://docs.google.com/spreadsheets/d/1E9OKPixylDZm_OoSQpLpkEL9mWMCCnHHv3-npW79cJE/edit?usp=sharing)
 
 ## Лабораторные работы
 
